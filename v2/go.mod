@@ -2,8 +2,6 @@ module github.com/datadog/stratus-red-team/v2
 
 go 1.22
 
-toolchain go1.23.1
-
 require (
 	cloud.google.com/go/compute v1.10.0
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.14.0
