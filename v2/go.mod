@@ -1,6 +1,6 @@
 module github.com/datadog/stratus-red-team/v2
 
-go 1.22
+go 1.21
 
 require (
 	cloud.google.com/go/compute v1.10.0
